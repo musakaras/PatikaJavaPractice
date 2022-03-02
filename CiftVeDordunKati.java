@@ -14,7 +14,7 @@ public class CiftVeDordunKati  {
             System.out.println("Sayı giriniz: ");
             number = scanner.nextInt();
 
-            if (number%2==0 && number%4==0) {
+            if (number%4==0) {
                 sum+=number;
             }
 
