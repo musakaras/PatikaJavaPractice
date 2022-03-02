@@ -21,5 +21,4 @@ public class CiftVeDordunKati  {
         } while (number % 2 == 0);
         System.out.println("Toplam: "+sum);
     }
-}{
 }
